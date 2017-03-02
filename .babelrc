@@ -1,0 +1,11 @@
+{
+  "presets": ["react-native"],
+  "plugins": [
+    ["babel-plugin-inline-import", {
+      "extensions": [
+        ".json",
+        ".svg"
+      ]
+    }]
+  ]
+}
